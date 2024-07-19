@@ -1,1 +1,3 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="100"/>
+</div>
