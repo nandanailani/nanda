@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://instagram.com/nandanailani">Instagram</a> •
-  <a href="https://linkedin.com/in/nandanailani">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nanda-restu-nailani">LinkedIn</a>
 </p>
 
 ---
