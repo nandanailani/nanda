@@ -1,3 +1,56 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="200"/>
+
+  <h1>Hi 👋, I'm Nanda Nailani</h1>
+  <h3>Fullstack Developer 🚀</h3>
+
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;React+Native+Developer;ERPNext+Developer;Always+Learning+New+Things" />
 </div>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,python,java,git,html,css" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+* 🔹 [Car Wash App](https://github.com/USERNAME/carwash-app)
+* 🔹 [ERPNext Custom App](https://github.com/USERNAME/erpnext-app)
+* 🔹 [React Native Project](https://github.com/USERNAME/react-native-app)
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://instagram.com/USERNAME">Instagram</a> •
+  <a href="https://linkedin.com/in/USERNAME">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue" />
+</p>
